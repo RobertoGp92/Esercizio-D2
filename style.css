@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@1,300&display=swap');
+
+
+body {
+    max-width: 8000px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+#principale {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.dimensione {
+    margin-left: 0;
+    height: 75px;
+    background-image: linear-gradient(180deg, rgb(236, 243, 136), rgb(247, 244, 235));
+    border-top: 3px solid green;
+    padding-top: 8px;
+    }
+
+.descrizione {
+    font-family: 'Ubuntu', sans-serif; 
+    text-align: left;
+}
+
+.video{
+    width: 100%;
+    box-shadow: 10px 10px 5px #dedede;
+    border-radius: 10px 10px 10px 10px;
+}
+
+h1 {
+    text-align: center;
+} 
+
+.focaccia {
+   width: 100%;
+}
+
+
+#testata {    
+    text-align: left;
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+}
+
+footer {        
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+a {
+    text-decoration: underline;
+}
+
+h4 {   
+    text-align: left;
+    border-left: 3px solid green;
+    padding-left: 8px;
+}
+
+h3 {
+    padding-bottom: 20px;
+    border-bottom: 3px solid rgba(221, 253, 253, 0.952);
+}
+
+.speciale {
+    padding-bottom: 20px;
+    margin-bottom: 0;
+}
